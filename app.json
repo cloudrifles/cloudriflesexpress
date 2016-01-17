@@ -1,0 +1,10 @@
+{
+  "name": "cloudriflesexpress",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
